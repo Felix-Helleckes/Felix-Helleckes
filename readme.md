@@ -62,7 +62,7 @@ I bridge the gap between development and business requirements. By implementing 
 
 ### 📫 Let's connect
 - **LinkedIn:** [Felix Florian Helleckes](https://www.linkedin.com/in/felix-helleckes-758529202/)
-- **Portfolio:** [irgendwasmitfelix.github.io](https://felix-helleckes.github.io/)
+- **Portfolio:** [felix-helleckes.github.io](https://felix-helleckes.github.io/)
 
 ---
 *Senior QA Engineer based in Cologne, Germany.*
