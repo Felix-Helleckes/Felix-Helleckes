@@ -53,7 +53,7 @@ Check out my repositories below to see my work with Playwright and modern CI pip
 ### 🎓 Education & Certifications
 - **ISTQB® Certified Tester** (Foundation Level)
 - **State-certified Information Technical Assistant** (Hönne Berufskolleg)
-- **Fachabitur** in Information Technology
+- **Fachabitur & Schulische Berufsausbildung** in Information Technology
 
 ---
 
