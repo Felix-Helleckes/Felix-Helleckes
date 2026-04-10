@@ -18,7 +18,7 @@ Check out my repositories below to see my work with Playwright and modern CI pip
 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/felix-helleckes](https://www.linkedin.com/in/felix-helleckes-758529202/)
-- **Tech-Blog:** [dev.to/felix-helleckes](https://dev.to/felix-helleckes)
+- **Tech-Blogs:** [dev.to/felix-helleckes](https://dev.to/felix-helleckes) [felix-helleckes.medium.com/](https://felix-helleckes.medium.com/)
 
 ---
 
