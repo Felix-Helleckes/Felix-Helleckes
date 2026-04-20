@@ -1,7 +1,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-felix--helleckes.github.io-0a66c2?style=for-the-badge&logo=github)](https://felix-helleckes.github.io/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-helleckes&layout=compact&theme=radical)
-
 # Hi, I'm Felix Helleckes 👋
 ## Senior QA Automation Engineer | Software Quality Specialist
 
@@ -25,7 +23,7 @@ Check out my repositories below to see my work with Playwright and modern CI pip
 - **Tech-Blogs:** [dev.to/felix-helleckes](https://dev.to/felix-helleckes) [felix-helleckes.medium.com/](https://felix-helleckes.medium.com/)
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-helleckes&layout=compact&theme=dark)
 
 ### 💼 Professional Journey & Impact
 
