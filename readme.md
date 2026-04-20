@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-helleckes&layout=compact&theme=dark)
 
-![Anurags GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-helleckes&show_icons=true&theme=radical)
-
 # Hi, I'm Felix Helleckes 👋
 ## Senior QA Automation Engineer | Software Quality Specialist
 
@@ -68,6 +66,8 @@ I bridge the gap between development and business requirements. By implementing 
 ### 📫 Let's connect
 - **LinkedIn:** [Felix Florian Helleckes](https://www.linkedin.com/in/felix-helleckes-758529202/)
 - **Portfolio:** [felix-helleckes.github.io](https://felix-helleckes.github.io/)
+
+![Anurags GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-helleckes&show_icons=true&theme=dark)
 
 ---
 *Senior QA Engineer based in Cologne, Germany.*
