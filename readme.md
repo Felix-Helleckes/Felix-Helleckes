@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-helleckes&layout=compact&theme=dark)
 
+![Anurags GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-helleckes&show_icons=true&theme=radical)
+
 # Hi, I'm Felix Helleckes 👋
 ## Senior QA Automation Engineer | Software Quality Specialist
 
