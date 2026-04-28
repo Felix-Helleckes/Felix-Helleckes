@@ -53,12 +53,6 @@ Check out my repositories below to see my work with Playwright and modern CI pip
 
 ---
 
-### 🎓 Education & Certifications
-- **ISTQB® Certified Tester** (Foundation Level)
-- **State-certified Information Technical Assistant** (Hönne Berufskolleg)
-- **Fachabitur & Schulische Berufsausbildung** in Information Technology
-
----
 
 ### 🧠 My QA Philosophy
 I bridge the gap between development and business requirements. By implementing "Shift-Left" strategies and automated quality gates, I ensure that stability is a feature, not an afterthought.
