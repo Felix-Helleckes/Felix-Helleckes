@@ -12,7 +12,7 @@ and ensuring the reliability of business-critical software systems.
 - **Languages:** JavaScript, TypeScript, Java, Python, Kotlin
 - **Testing Tools:** Playwright, Webdriver.io, loust.io, Speedcurve, SAP Testing Framework, Postman (API Testing), Jira/XRAY, Testrail, Microfocus UFT, VSCode, Browserstack
 - **CI/CD & DevOps:** Jenkins, GitHub Actions, Docker, Kubernetes
-- **Focus:** AI-driven Test Automation, Security Testing, Performance Testing
+- **Focus:** E2E Testautomation, AI-driven Test Automation, Performance Testing
 - **Environment:** Linux, Windows, macOS, Android, iOS
 
   
