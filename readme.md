@@ -62,8 +62,6 @@ I bridge the gap between development and business requirements. By implementing 
 - **LinkedIn:** [Felix Florian Helleckes](https://www.linkedin.com/in/felix-helleckes-758529202/)
 - **Portfolio:** [felix-helleckes.github.io](https://felix-helleckes.github.io/)
 
-![Anurags GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-helleckes&show_icons=true&theme=dark)
-
 ---
 *Senior QA Engineer based in Cologne, Germany.*
 *Professionalism, Quality, and Reliability in Software Development.*
