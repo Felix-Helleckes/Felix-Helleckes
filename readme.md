@@ -32,7 +32,7 @@ Side projects, all published and publicly available — built end to end, from t
 | **[Moto-Log](https://motologbuch.netlify.app/)** | 100% offline service logbook for motorcycles — maintenance entries, service intervals and running costs. No account, no trackers. iOS & Android, five languages. | Flutter |
 | **[EU Compliance Suite](https://eu-compliance-suite.fly.dev/)** | Shopify app for three EU consumer-law obligations taking effect in 2026: withdrawal button (Art. 11a CRD), legal-guarantee notice and the GARAN label (Reg. (EU) 2025/1960) — 24 languages, no theme code. | React Router 7, Prisma, Polaris, GraphQL Admin API |
 | **[Mega Man: Advanced PET](https://mega-man-advanced-pet.vercel.app/)** | Fan-made mobile game: real-time 3×6 grid NetBattles, 200+ battle chips with fusion, co-op boss raids and a pedometer that charges battle fuel while you walk. | Flutter, Supabase |
-| **[Clickwheel](https://clickwheel-app.netlify.app/)** | Offline music player with a real click wheel that rotates by angle and clicks audibly. No streaming, no ads, no connection. | Flutter |
+| **[Clickwheel](https://clickwheel-app.pages.dev/)** | Offline music player with a real click wheel that rotates by angle and clicks audibly. No streaming, no ads, no connection. | Flutter |
 | **[World Clock Live](https://worldclocklive.pages.dev/)** | LED world clock as a live desktop wallpaper for Windows and macOS — 24 cities, 7-segment digits, automatic DST, near-zero CPU usage. | Electron |
 | **[Retrogram](https://icq-remake.netlify.app/)** | A retro ICQ-style messenger, rebuilt for the browser. | Web |
 
