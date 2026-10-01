@@ -34,7 +34,7 @@ Side projects, all published and publicly available — built end to end, from t
 | **[Mega Man: Advanced PET](https://mega-man-advanced-pet.vercel.app/)** | Fan-made mobile game: real-time 3×6 grid NetBattles, 200+ battle chips with fusion, co-op boss raids and a pedometer that charges battle fuel while you walk. | Flutter, Supabase |
 | **[Clickwheel](https://clickwheel-app.pages.dev/)** | Offline music player with a real click wheel that rotates by angle and clicks audibly. No streaming, no ads, no connection. | Flutter |
 | **[World Clock Live](https://worldclocklive.pages.dev/)** | LED world clock as a live desktop wallpaper for Windows and macOS — 24 cities, 7-segment digits, automatic DST, near-zero CPU usage. | Electron |
-| **[Retrogram](https://icq-remake.netlify.app/)** | A retro ICQ-style messenger, rebuilt for the browser. | Web |
+| **[Retrogram](https://icq-retrogram.pages.dev/)** | WhatsApp and Telegram in one retro ICQ 5 desktop app — a separate chat window per contact, the classic uh-oh sound, three skins. Free and open source for Windows, macOS and Linux. | Electron |
 
 ---
 
