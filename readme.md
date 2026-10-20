@@ -43,12 +43,12 @@ Side projects, all published and publicly available — built end to end, from t
 ### 🔧 Open-source contributions (AI-assisted with Claude Code)
 
 **13 merged pull requests** in repositories I don't own<br>
-<sub>+ 49 more in review · 4 issues reported</sub>
+<sub>+ 51 more in review · 4 issues reported</sub>
 
 | Repository | Merged | In review |
 |---|---:|---:|
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 13 | 46 |
-| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 0 | 2 |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 13 | 47 |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 0 | 3 |
 | [tr0tsky0/Mapzeroth](https://github.com/tr0tsky0/Mapzeroth) | 0 | 1 |
 
 **Latest merged**
