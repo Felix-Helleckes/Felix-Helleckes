@@ -39,6 +39,31 @@ Side projects, all published and publicly available — built end to end, from t
 
 ---
 
+<!-- oss:start -->
+### 🔧 Open-source contributions (AI-assisted with Claude Code)
+
+**13 merged pull requests** in repositories I don't own<br>
+<sub>+ 49 more in review · 4 issues reported</sub>
+
+| Repository | Merged | In review |
+|---|---:|---:|
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 13 | 46 |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 0 | 2 |
+| [tr0tsky0/Mapzeroth](https://github.com/tr0tsky0/Mapzeroth) | 0 | 1 |
+
+**Latest merged**
+
+- [#1487: the Text panel's Graphics tab lists and edits the sequence's graphic text](https://github.com/storytold/filmcraft/pull/2452) — storytold/filmcraft, 2026-10-19
+- [Timeline: colour labels for tracks (#1186)](https://github.com/storytold/filmcraft/pull/2451) — storytold/filmcraft, 2026-10-19
+- [#2358: stopwatches in the Essential Graphics panel animate layer properties](https://github.com/storytold/filmcraft/pull/2459) — storytold/filmcraft, 2026-10-19
+- [#1985: a panel closed while floating opens again floating where it was](https://github.com/storytold/filmcraft/pull/2482) — storytold/filmcraft, 2026-10-19
+- [i18n: German (de) covers the whole interface](https://github.com/storytold/filmcraft/pull/2462) — storytold/filmcraft, 2026-10-19
+
+<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-10-20</sub>
+<!-- oss:end -->
+
+---
+
 ### 💼 Professional Journey & Impact
 
 **Senior Quality Assurance Engineer | E-Commerce (Bike24)**
