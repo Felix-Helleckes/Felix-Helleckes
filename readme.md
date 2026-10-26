@@ -42,24 +42,24 @@ Side projects, all published and publicly available — built end to end, from t
 <!-- oss:start -->
 ### 🔧 Open-source contributions (AI-assisted with Claude Code)
 
-**17 merged pull requests** in repositories I don't own<br>
-<sub>+ 60 more in review · 6 issues reported</sub>
+**19 merged pull requests** in repositories I don't own<br>
+<sub>+ 58 more in review · 6 issues reported</sub>
 
 | Repository | Merged | In review |
 |---|---:|---:|
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 15 | 55 |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 17 | 53 |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2 | 4 |
 | [tr0tsky0/Mapzeroth](https://github.com/tr0tsky0/Mapzeroth) | 0 | 1 |
 
 **Latest merged**
 
+- [#2340: uncompressed QuickTime video (raw 24-bit RGB, 2vuy, v210) decodes](https://github.com/storytold/filmcraft/pull/2415) — storytold/filmcraft, 2026-10-25
+- [#2343: saving a project creates its previews folder only when there are previews](https://github.com/storytold/filmcraft/pull/2387) — storytold/filmcraft, 2026-10-25
 - [#2679: effects.setParam refuses values outside the parameter's range](https://github.com/storytold/filmcraft/pull/2709) — storytold/filmcraft, 2026-10-23
 - [#2342: CLI file.exportMedia waits for the export before the process exits](https://github.com/storytold/filmcraft/pull/2388) — storytold/filmcraft, 2026-10-21
 - [fix: address issue #649](https://github.com/storytold/craft-launcher/pull/663) — storytold/craft-launcher, 2026-10-20
-- [fix: address issue #388](https://github.com/storytold/craft-launcher/pull/677) — storytold/craft-launcher, 2026-10-20
-- [#1487: the Text panel's Graphics tab lists and edits the sequence's graphic text](https://github.com/storytold/filmcraft/pull/2452) — storytold/filmcraft, 2026-10-19
 
-<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-10-25</sub>
+<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-10-26</sub>
 <!-- oss:end -->
 
 ---
