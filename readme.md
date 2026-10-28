@@ -43,13 +43,12 @@ Side projects, all published and publicly available — built end to end, from t
 ### 🔧 Open-source contributions (AI-assisted with Claude Code)
 
 **19 merged pull requests** in repositories I don't own<br>
-<sub>+ 58 more in review · 6 issues reported</sub>
+<sub>+ 57 more in review · 6 issues reported</sub>
 
 | Repository | Merged | In review |
 |---|---:|---:|
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 17 | 53 |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2 | 4 |
-| [tr0tsky0/Mapzeroth](https://github.com/tr0tsky0/Mapzeroth) | 0 | 1 |
 
 **Latest merged**
 
@@ -59,7 +58,7 @@ Side projects, all published and publicly available — built end to end, from t
 - [#2342: CLI file.exportMedia waits for the export before the process exits](https://github.com/storytold/filmcraft/pull/2388) — storytold/filmcraft, 2026-10-21
 - [fix: address issue #649](https://github.com/storytold/craft-launcher/pull/663) — storytold/craft-launcher, 2026-10-20
 
-<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-10-26</sub>
+<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-10-28</sub>
 <!-- oss:end -->
 
 ---
