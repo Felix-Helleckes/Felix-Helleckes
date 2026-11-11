@@ -42,23 +42,23 @@ Side projects, all published and publicly available — built end to end, from t
 <!-- oss:start -->
 ### 🔧 Open-source contributions (AI-assisted with Claude Code)
 
-**37 merged pull requests** in repositories I don't own<br>
-<sub>+ 39 more in review · 6 issues reported</sub>
+**38 merged pull requests** in repositories I don't own<br>
+<sub>+ 38 more in review · 6 issues reported</sub>
 
 | Repository | Merged | In review |
 |---|---:|---:|
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 35 | 35 |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 36 | 34 |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2 | 4 |
 
 **Latest merged**
 
+- [#2553: fall back to the integrated GPU when the chosen one can't draw to the window](https://github.com/storytold/filmcraft/pull/2558) — storytold/filmcraft, 2026-11-10
 - [#1878: list fonts activated through Adobe Fonts](https://github.com/storytold/filmcraft/pull/2389) — storytold/filmcraft, 2026-10-31
 - [#2375: the NVENC SDR sample entry test expects the BT.709 colr since #2142](https://github.com/storytold/filmcraft/pull/2386) — storytold/filmcraft, 2026-10-31
 - [#2749: Export starts on Source In/Out when the sequence has In/Out marks](https://github.com/storytold/filmcraft/pull/2768) — storytold/filmcraft, 2026-10-31
 - [#2682: Lumetri curves get automation elements; regression test for curve undo/redo](https://github.com/storytold/filmcraft/pull/2710) — storytold/filmcraft, 2026-10-31
-- [#2489: an imported shortcut set is always listed; .kys files explain why they can't be read](https://github.com/storytold/filmcraft/pull/2705) — storytold/filmcraft, 2026-10-31
 
-<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-10-31</sub>
+<sub>Counted daily from the GitHub search API by a GitHub Action · last change 2026-11-11</sub>
 <!-- oss:end -->
 
 ---
