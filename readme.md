@@ -6,6 +6,7 @@
 Cologne, Germany
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-felix--helleckes.github.io-0a66c2?style=for-the-badge&logo=github)](https://felix-helleckes.github.io/)
+[![All apps](https://img.shields.io/badge/All%20apps-felix--helleckes.github.io%2Fapps-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felix-helleckes.github.io/apps/?ref=github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felix--helleckes-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-helleckes/)
 [![CurseForge](https://img.shields.io/badge/CurseForge-11%20WoW%20addons-f16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/felix_helleckes/projects)
 [![App Store](https://img.shields.io/badge/App%20Store-apps-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/de/developer/felix-helleckes/id6786716900)
@@ -29,6 +30,8 @@ I'm a Quality Assurance expert with over 8 years of experience building robust a
 ---
 
 ### 📱 Apps I built & shipped
+
+All apps by Felix Helleckes with current versions and store links: **[felix-helleckes.github.io/apps](https://felix-helleckes.github.io/apps/?ref=github)**
 
 | App | What it is | Stack |
 |---|---|---|
